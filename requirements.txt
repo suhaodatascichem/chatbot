@@ -1,8 +1,8 @@
 streamlit
-langchain==0.1.14
+langchain[docarray]==0.1.14
 sentence-transformers
 transformers
 torch
 python-docx
-protobuf==3.20.3
 docx2txt
+protobuf==3.20.3
