@@ -1,6 +1,6 @@
 streamlit
-langchain
-faiss-cpu
+langchain==0.1.14
+faiss-cpu==1.7.4
 sentence-transformers
 transformers
 torch
