@@ -1,6 +1,6 @@
 streamlit
 langchain==0.1.14
-chroma
+chromadb
 sentence-transformers
 transformers
 torch
