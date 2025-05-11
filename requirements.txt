@@ -1,6 +1,6 @@
 streamlit
 langchain==0.1.14
-faiss-cpu==1.7.4
+chroma
 sentence-transformers
 transformers
 torch
