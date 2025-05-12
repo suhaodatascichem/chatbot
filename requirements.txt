@@ -1,7 +1,7 @@
 streamlit
 langchain[docarray]==0.1.14
 sentence-transformers
-transformers
+transformers==4.37.2
 torch
 python-docx
 docx2txt
