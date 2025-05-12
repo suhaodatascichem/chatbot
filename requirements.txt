@@ -3,7 +3,7 @@ langchain==0.1.14
 chromadb==0.4.24
 sentence-transformers==2.2.2
 transformers==4.36.2
-torch==2.1.0
+torch
 docx2txt
 python-docx
 protobuf==3.20.3
