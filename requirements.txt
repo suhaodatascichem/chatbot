@@ -1,5 +1,6 @@
 streamlit
-langchain[docarray]==0.1.14
+langchain==0.1.14
+docarray==0.32.0
 sentence-transformers
 transformers==4.37.2
 torch
