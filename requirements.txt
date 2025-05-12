@@ -1,9 +1,9 @@
 streamlit
 langchain==0.1.14
-docarray==0.32.0
+chromadb==0.4.24
 sentence-transformers
 transformers==4.37.2
 torch
-python-docx
 docx2txt
+python-docx
 protobuf==3.20.3
